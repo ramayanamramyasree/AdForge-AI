@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AdForge AI — AI Advertising Creative Studio
 
 AdForge AI is a production-style SaaS application designed to turn product ideas into high-converting, scroll-stopping social media and search advertising creatives in seconds.
@@ -151,3 +152,7 @@ AdForge AI is tested and responsive across all standard viewports:
 ## 📄 License
 
 MIT © 2026 AdForge AI.
+=======
+# AdForge-AI
+AI-powered SaaS platform for generating professional advertising creatives.
+>>>>>>> 0db0945753799012c6edfff6c867339d3632fead
