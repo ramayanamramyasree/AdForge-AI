@@ -155,4 +155,4 @@ MIT © 2026 AdForge AI.
 =======
 # AdForge-AI
 AI-powered SaaS platform for generating professional advertising creatives.
->>>>>>> 0db0945753799012c6edfff6c867339d3632fead
+
